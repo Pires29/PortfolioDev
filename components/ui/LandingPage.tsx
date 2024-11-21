@@ -13,7 +13,7 @@ export default function LandingPage() {
             <PiGreaterThanLight className="text-2xl lg:text-3xl" style={{ color: "#FE710B" }} />
           </div>
           <div className="text-center">
-            <h1 className="text-3xl xxs:text-4xl xs:text-5xlcustom sm:text-5xl lg:text-6xl 2xl:text-7xl mb-4 text-white">I´m Renato Almeida</h1>
+            <h1 className="text-3xl xxs:text-4xl xs:text-5xlcustom sm:text-5xl lg:text-6xl 2xl:text-7xl mb-4 text-white">I&apos;m Renato Almeida</h1>
           </div>
           <div className="flex justify-start items-center">
             <PiLessThanLight className="text-2xl lg:text-3xl" style={{ color: "#FE710B" }} />
