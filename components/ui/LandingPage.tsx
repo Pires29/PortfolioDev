@@ -13,7 +13,7 @@ export default function LandingPage() {
             <PiGreaterThanLight className="text-2xl lg:text-3xl" style={{ color: "#FE710B" }} />
           </div>
           <div className="text-center">
-            <h1 className="text-3xl xxs:text-4xl xs:text-5xlcustom sm:text-5xl lg:text-6xl 2xl:text-7xl mb-4 text-white">I am Renato Almeida</h1>
+            <h1 className="text-3xl xxs:text-4xl xs:text-5xlcustom sm:text-5xl lg:text-6xl 2xl:text-7xl mb-4 text-white">I´m Renato Almeida</h1>
           </div>
           <div className="flex justify-start items-center">
             <PiLessThanLight className="text-2xl lg:text-3xl" style={{ color: "#FE710B" }} />
@@ -31,7 +31,7 @@ export default function LandingPage() {
       <PiGreaterThanLight className="sm:text-xl lg:text-2xl" style={{ color: "#FE710B" }} />
     </div>
     <p className="text-white mx-4 xl:mx-0 text-sm xs:text-base sm:text-lg">
-      I'm Renato, a passionate Front End Developer with a keen eye for detail and a love for crafting engaging user experiences. I thrive on turning complex problems into intuitive, beautiful interfaces that delight users.
+      I´m Renato, a passionate Front End Developer with a keen eye for detail and a love for crafting engaging user experiences. I thrive on turning complex problems into intuitive, beautiful interfaces that delight users.
     </p>
   </div>
 
