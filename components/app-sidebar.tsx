@@ -4,32 +4,22 @@ import * as React from "react"
 import {
   BookOpen,
   Bot,
-  Command,
-  Frame,
-  LifeBuoy,
-  Map,
-  PieChart,
   Github,
   Linkedin,
-  Send,
   Settings2,
   SquareTerminal,
 } from "lucide-react"
 
 
-import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 
 import { NavMain } from "@/components/nav-main"
 import { NavSecondary } from "@/components/nav-secondary"
-import { NavUser } from "@/components/nav-user"
 import {
   Sidebar,
   SidebarContent,
-  SidebarFooter,
   SidebarHeader,
   SidebarMenu,
-  SidebarMenuButton,
   SidebarMenuItem,
 } from "@/components/ui/sidebar"
 
