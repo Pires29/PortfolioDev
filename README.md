@@ -15,5 +15,6 @@ A personal developer portfolio built with Next.js and TypeScript. The website sh
 - **Tech Stacks:** A list of the technologies and tools I use as a developer.
 - **Projects:** Showcases of some of the projects I’ve worked on, with links to their respective repositories and live demos.
 - **Contact:** A section with contact information and links to my social media profiles and professional networks (LinkedIn, GitHub).
+- **Responsive Design:** The app is fully responsive, ensuring a smooth experience on both desktop and mobile devices.
 
 Access the application at https://portfolio-dev-ux61.vercel.app/.
